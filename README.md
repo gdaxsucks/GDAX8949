@@ -14,7 +14,7 @@ stupid bullshit it was written in. I'm a fucking Java programmer so this is what
 ## Why the fuck do I need this shit?
 
 You need this shit because those motherfuckers at Coinbase sent out a fucking 1099-K showing your gross transactions to the IRS.
-If you were stupid enough to run a trading bot like I was, the dickwads at the IRS now knows that you received maybe millions of fucking dollars
+If you were stupid enough to run a trading bot like I was, the dickwads at the IRS now know that you received maybe millions of fucking dollars
 even though it was just your same $1,000 traded back and forth thousands of fucking times. You lost or gained maybe $50 on the whole 
 deal but now you have to account for every single fucking last transaction. Because they know. They fucking know, and they're going
 to want fucking answers.
