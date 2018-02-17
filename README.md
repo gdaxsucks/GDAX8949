@@ -24,7 +24,7 @@ I'm not a fucking accountant. I had no fucking clue what a "cost basis" is but h
 
 ## Using this stupid shit
 You need to fucking download your reports for ETH, LTC, BTC, or whatever the fuck else you traded. Then you need to download your USD report.
-What's that you say, you traded ETC for LTC or BTC? Well fuck, I don't even know if this shit is going to help you. I don't even want
+What's that you say, you traded cryptocurrencies for other cryptocurrencies instead of fucking dollars? Well fuck, I don't even know if this shit is going to help you. I don't even want
 to fucking think about your predicament. This is for regular fucking trades for regular fucking fiat currency. Yeah I said fiat, you like that,
 you stupid little crypto fuck?
 
@@ -35,3 +35,4 @@ I'm not done fucking uploading it you fucking nitwit. Don't worry it will all be
 The list of shit it doesn't do is LONG. I don't even know what the fuck it doesn't do, that's what the fuck I know. Mostly it doesn't create
 a PDF all pretty like the one those asshole douchebags from the fucking IRS give you. I don't think it fucking matters. Just give it to your 
 fucking accountant.
+
